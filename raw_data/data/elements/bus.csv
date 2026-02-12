@@ -1,0 +1,4 @@
+name;type;balanced
+electricity;bus;true
+heat;bus;true
+gas;bus;true

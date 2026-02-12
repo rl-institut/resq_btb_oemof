@@ -1,0 +1,6 @@
+name;type;carrier;tech;capacity;capacity_cost;bus;marginal_cost;output_parameters;expandable;capacity_potential
+electricity_import;shortage;electricity;electricity_import;10000000000;0;electricity;0.096;{};False;
+heat_import;shortage;heat;heat_import;1848360;0;heat;0;{};False;
+methane_import;shortage;gas;methane_import;12274634;0;gas;0.01545;{};False;
+biogas_import;shortage;gas;biogas_import;4091545;0;gas;0.1;{};False;
+hydrogen_import;shortage;gas;hydrogen_import;10000000000;0;gas;0.135;{};False;

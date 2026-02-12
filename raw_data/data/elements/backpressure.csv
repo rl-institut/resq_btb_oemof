@@ -1,0 +1,3 @@
+name;type;carrier;tech;capacity;marginal_cost;capacity_cost;electricity_bus;heat_bus;fuel_bus;electric_efficiency;thermal_efficiency;age;lifetime
+bhkw;backpressure;gas;bp;8900;0.03;581;electricity;heat;gas;0.3;0.65;15;15
+gasturbine;backpressure;gas;bp;9800;0.0054;71;electricity;heat;gas;0.37;0.51;29;25
